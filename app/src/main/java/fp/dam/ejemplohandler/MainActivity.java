@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.LinkedList;
 import java.util.Queue;
 
-// ------- VIDEO - 6 ---------------- HILO QUE MANEJA UNA COLA DE EVENTOS
+// ------- VIDEO - 6 ---------------- HILO QUE MANEJA UNA COLA DE EVENTOS ---
 
 // CREACION HILOS
 
